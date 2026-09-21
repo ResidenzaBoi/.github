@@ -67,25 +67,6 @@ Siamo all'inizio del percorso e stiamo costruendo ResidenzaBoi passo dopo passo,
 
 ---
 
-## 🤝 Partecipa al progetto
-
-Ogni contributo conta! Ecco come puoi partecipare:
-
-<div align="center">
-
-| | Come contribuire |
-|:---:|:---|
-| 👀 | **Segui** lo sviluppo nei repository dell'organizzazione |
-| 💬 | **Segnala** idee e miglioramenti tramite le [issue](https://github.com/ResidenzaBoi) |
-| 🔧 | **Contribuisci** direttamente al codice con [pull request](https://github.com/ResidenzaBoi) |
-| ⭐ | **Metti una stella** se il progetto ti piace! |
-
-</div>
-
-> Ogni feedback può aiutarci a rendere l'esperienza sportiva in ELIS più organizzata, accessibile e coinvolgente.
-
----
-
 ## 🎯 Il nostro obiettivo
 
 <div align="center">
@@ -96,11 +77,11 @@ Ogni contributo conta! Ecco come puoi partecipare:
 
 <br/>
 
-<img src="assets/logo.jpg" alt="ResidenzaBoi" width="80"/>
+<img src="../logo.jpg" alt="ResidenzaBoi" width="80"/>
 
 <br/>
 
-**ResidenzaBoi** — *codice · amicizia · idee · sempre a casa*
+**ResidenzaBoi**
 
 `>_`
 
