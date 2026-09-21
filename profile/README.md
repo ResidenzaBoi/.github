@@ -141,6 +141,23 @@ Hai trovato un bug o hai un'idea? [Apri una issue](https://github.com/orgs/Resid
 
 ---
 
+## 🗺️ Roadmap
+
+<div align="center">
+  
+| Fase | Cosa | Stato |
+|:--:|:--|:--:|
+| **1** | ⚽ Sezione Calcio — partite, classifiche, statistiche | 🟢 In corso |
+| **2** | 📊 Analisi traffico e ottimizzazione performance | 🔜 Prossimo |
+| **3** | ⚡ Implementazione caching | 🔜 Pianificato |
+| **4** | 🏀 Sezione Basket | 📋 Backlog |
+| **5** | 🏐 Sezione Pallavolo | 📋 Backlog |
+
+</div>
+
+---
+
+
 ## 🫂 Più di un'app: una community
 
 **ELIS Sport** non è soltanto uno strumento per registrare risultati. È un progetto **nato dalla community e per la community**, con l'obiettivo di rendere più semplice partecipare, seguire i propri progressi e vivere lo sport della residenza in modo ancora più coinvolgente.
