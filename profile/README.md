@@ -18,19 +18,17 @@
 
 ## 💡 Cos'è ResidenzaBoi?
 
-**ResidenzaBoi** nasce da un'idea semplice: trasformare il tradizionale registro del calcio della residenza **ELIS** in un'esperienza più completa, moderna e coinvolgente.
+**ResidenzaBoi** è l'organizzazione che sviluppa **ELIS Sport**, un'app nata da un'idea semplice: trasformare il tradizionale registro del calcio della residenza **ELIS** in un'esperienza più completa, moderna e coinvolgente.
 
 Dopo l'ultimo esame della sessione, invece di fermarci a riposare, abbiamo scelto di continuare a costruire. Abbiamo così iniziato a sviluppare una **piattaforma dedicata allo sport e alla vita della community ELIS**.
 
 ---
 
-## 🏆 Un'unica piattaforma per lo sport in ELIS
+## 🏆 ELIS Sport — un'unica piattaforma per lo sport in ELIS
 
 <div align="center">
 
 | ⚽ **Calcio** | 🏀 **Basket** | 🏐 **Pallavolo** |
-|:-------------:|:-------------:|:----------------:|
-| Classifiche e risultati | Statistiche live | Tornei e sfide |
 
 </div>
 
@@ -52,7 +50,7 @@ Per ogni sport offriamo un'esperienza chiara e completa:
 
 ## 🫂 Più di un'app: una community
 
-ResidenzaBoi non è soltanto uno strumento per registrare risultati. È un progetto **nato dalla community e per la community**, con l'obiettivo di rendere più semplice partecipare, seguire i propri progressi e vivere lo sport della residenza in modo ancora più coinvolgente.
+**ELIS Sport** non è soltanto uno strumento per registrare risultati. È un progetto **nato dalla community e per la community**, con l'obiettivo di rendere più semplice partecipare, seguire i propri progressi e vivere lo sport della residenza in modo ancora più coinvolgente.
 
 > *Vogliamo creare un ambiente in cui ogni partita racconti qualcosa:*
 > *la sfida, il gruppo, il miglioramento e il piacere di condividere un'esperienza.*
@@ -63,7 +61,7 @@ ResidenzaBoi non è soltanto uno strumento per registrare risultati. È un proge
 
 Il progetto nasce dalla voglia di trasformare un'esigenza concreta in qualcosa di **utile, funzionale e bello da usare**.
 
-Siamo all'inizio del percorso e stiamo costruendo ResidenzaBoi passo dopo passo, ascoltando la community e raccogliendo idee per migliorare continuamente.
+Siamo all'inizio del percorso e stiamo costruendo **ELIS Sport** passo dopo passo, ascoltando la community e raccogliendo idee per migliorare continuamente.
 
 ---
 
