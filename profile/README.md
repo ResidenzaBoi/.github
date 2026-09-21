@@ -1,48 +1,49 @@
 # ResidenzaBoi
 
-Benvenuti nella pagina ufficiale dell'organizzazione GitHub di ResidenzaBoi.
+> Dalla vita in residenza a una community che gioca, compete e cresce insieme.
 
-Qui trovi i progetti, gli strumenti e le iniziative che accompagnano il nostro lavoro e la nostra presenza digitale.
+**ResidenzaBoi** nasce da un'idea semplice: trasformare il tradizionale registro del calcio della residenza **ELIS** in un'esperienza più completa, moderna e coinvolgente.
 
-## Chi siamo
+Dopo l'ultimo esame della sessione, invece di fermarci a riposare, abbiamo scelto di continuare a costruire. Abbiamo così iniziato a sviluppare una piattaforma dedicata allo sport e alla vita della community ELIS.
 
-ResidenzaBoi è un'organizzazione dedicata alla realizzazione di soluzioni, progetti e risorse utili alla community, con attenzione a qualità, collaborazione e crescita condivisa.
+## Un'unica piattaforma per lo sport in ELIS
 
-## Progetti
+ResidenzaBoi raccoglie in un unico spazio le attività sportive della residenza:
 
-- Repository principali e strumenti sviluppati dall'organizzazione
-- Progetti open source e collaborativi
-- Risorse utili per lo sviluppo e la conoscenza condivisa
+- ⚽ **Calcio**
+- 🏀 **Basket**
+- 🏐 **Pallavolo**
 
-## Obiettivi
+Per ogni sport vogliamo offrire un'esperienza chiara e completa, con:
 
-- Sviluppare soluzioni concrete e sostenibili
-- Favorire la collaborazione tra membri e community
-- Mantenere un ambiente aperto, utile e condiviso
-- Promuovere progetti con valore pratico e documentazione chiara
+- classifiche aggiornate;
+- risultati e andamento delle partite;
+- statistiche individuali e di squadra;
+- notifiche direttamente nell'app;
+- uno spazio digitale pensato per favorire partecipazione e competizione sana.
 
-## Contribuire
+## Più di un'app: una community
 
-Se vuoi contribuire, puoi:
+ResidenzaBoi non è soltanto uno strumento per registrare risultati. È un progetto nato dalla community e per la community, con l'obiettivo di rendere più semplice partecipare, seguire i propri progressi e vivere lo sport della residenza in modo ancora più coinvolgente.
 
-- esplorare i repository pubblici dell'organizzazione;
-- aprire issue per segnalare bug, miglioramenti o idee;
-- proporre pull request con contributi costruttivi;
-- contattare i maintainer del progetto interessato.
+Vogliamo creare un ambiente in cui ogni partita racconti qualcosa: la sfida, il gruppo, il miglioramento e il piacere di condividere un'esperienza.
 
-## Contatti
+## Costruito insieme
 
-Per collaborazione, domande o idee, contatta la community tramite i repository e i canali disponibili sull'organizzazione.
+Il progetto nasce dalla voglia di trasformare un'esigenza concreta in qualcosa di utile, funzionale e bello da usare.
 
-## Supporto e collaborazione
+Siamo all'inizio del percorso e stiamo costruendo ResidenzaBoi passo dopo passo, ascoltando la community e raccogliendo idee per migliorare continuamente il progetto.
 
-Questo spazio è pensato per presentare l'organizzazione in modo semplice e professionale, in modo da rendere subito chiaro:
+## Partecipa al progetto
 
-- chi siamo;
-- cosa facciamo;
-- dove trovare i nostri progetti;
-- come contribuire.
+Puoi seguire lo sviluppo nei repository dell'organizzazione, segnalare idee e miglioramenti tramite le issue oppure contribuire direttamente al codice con pull request.
+
+Ogni feedback può aiutarci a rendere l'esperienza sportiva in ELIS più organizzata, accessibile e coinvolgente.
+
+## Il nostro obiettivo
+
+Trasformare il registro delle partite in una piattaforma sportiva completa: più funzionale, più connessa e soprattutto più vicina alle persone che vivono la residenza ogni giorno.
 
 ---
 
-ResidenzaBoi — progetti, strumenti e idee condivise.
+**ResidenzaBoi — lo sport della residenza, tutto in un unico posto.**
