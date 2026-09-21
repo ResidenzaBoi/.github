@@ -77,7 +77,7 @@ Siamo all'inizio del percorso e stiamo costruendo ResidenzaBoi passo dopo passo,
 
 <br/>
 
-<img src="../logo.jpg" alt="ResidenzaBoi" width="80"/>
+<img src="../logo.png" alt="ResidenzaBoi" width="80"/>
 
 <br/>
 
