@@ -29,6 +29,7 @@ Dopo l'ultimo esame della sessione, invece di fermarci a riposare, abbiamo scelt
 <div align="center">
 
 | ⚽ **Calcio** | 🏀 **Basket** | 🏐 **Pallavolo** |
+|:-------------:|:-------------:|:----------------:|
 
 </div>
 
@@ -45,6 +46,98 @@ Per ogni sport offriamo un'esperienza chiara e completa:
 > 🔔 Notifiche direttamente nell'app
 >
 > 🤝 Uno spazio digitale pensato per favorire partecipazione e competizione sana
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ Architettura
+
+```
+┌──────────────────┐         ┌──────────────────────┐
+│   🖥️ Frontend    │  HTTP   │    🔧 Backend         │
+│   Angular + TS   │────────▶│    Spring Boot        │
+│                  │  REST   │                       │
+│  • Components    │◀────────│  Controller           │
+│  • Services      │   JSON  │    ↓                  │
+│  • Routing       │         │  Service / Policy     │
+│  • Guards        │         │    ↓                  │
+└──────────────────┘         │  Repository           │
+                             │    ↓                  │
+                             │  Entity ←→ DTO        │
+                             └─────────┬────────────┘
+                                       │
+                                       ▼
+                             ┌──────────────────────┐
+                             │    🗄️ MySQL           │
+                             │                       │
+                             │  • Utenti e profili   │
+                             │  • Partite e risultati│
+                             │  • Classifiche        │
+                             └──────────────────────┘
+```
+
+---
+
+## 🧩 Design Pattern
+
+Il backend segue un'architettura **layered** con separazione chiara delle responsabilità:
+
+| Layer | Package | Responsabilità |
+|:--|:--|:--|
+| **Presentazione** | `controller` | REST API endpoints |
+| **Business Logic** | `service`, `policy` | Logica di gioco, regole e autorizzazioni |
+| **Trasformazione** | `dto`, `mapper` | Conversione Entity ↔ DTO |
+| **Persistenza** | `repository`, `entity` | Accesso dati con Spring Data JPA |
+| **Infrastruttura** | `config`, `exception`, `listener`, `scheduler` | Configurazione, gestione errori, eventi e task schedulati |
+
+```
+📂 com.residenza.com.calcioelis
+├── 📂 config          # Configurazione app e sicurezza
+├── 📂 controller      # REST Controller (API endpoints)
+├── 📂 dto             # Data Transfer Objects
+├── 📂 entity          # Entità JPA (modello dati)
+├── 📂 exception       # Gestione centralizzata degli errori
+├── 📂 listener        # Event Listener
+├── 📂 mapper          # Entity ↔ DTO mapping
+├── 📂 policy          # Regole di business e autorizzazione
+├── 📂 repository      # Spring Data JPA Repositories
+├── 📂 scheduler       # Task schedulati
+├── 📂 service         # Logica di business
+└── 📄 CalcioElisApplication.java
+```
+
+---
+
+## 📁 Struttura del progetto
+
+| Repository | Descrizione | Tech | Stato |
+|:--|:--|:--|:--:|
+| [`CalcioElis_BE`](https://github.com/ResidenzaBoi/CalcioElis_BE) | Backend — API REST e logica di business | Spring Boot, Java | 🔒 Private |
+| [`CalcioElis_FE`](https://github.com/ResidenzaBoi/CalcioElis_FE) | Frontend — Web app e interfaccia utente | Angular, TypeScript | 🔒 Private |
+| [`.github`](https://github.com/ResidenzaBoi/.github) | Profilo dell'organizzazione | — | 🌐 Public |
+
+---
+
+## 📋 Project Board
+
+Gestiamo bug, feature e miglioramenti tramite il nostro **GitHub Project Board**:
+
+👉 [**ResidenzaBoi — Board**](https://github.com/orgs/ResidenzaBoi/projects/1)
+
+Hai trovato un bug o hai un'idea? [Apri una issue](https://github.com/orgs/ResidenzaBoi/projects/1) e la prenderemo in carico!
 
 ---
 
