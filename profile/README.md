@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.jpg" alt="ResidenzaBoi Banner" width="100%"/>
+<img src="../banner.jpg" alt="ResidenzaBoi Banner" width="100%"/>
 
 <br/>
 
-<img src="logo.jpg" alt="ResidenzaBoi Logo" width="180"/>
+<img src="../logo.jpg" alt="ResidenzaBoi Logo" width="180"/>
 
 <br/><br/>
 
