@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../logo.jpg" alt="ResidenzaBoi Logo" width="320"/>
+<img src="../logo.png" alt="ResidenzaBoi Logo" width="320"/>
 
 <br/><br/>
 
