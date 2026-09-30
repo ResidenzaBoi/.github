@@ -147,15 +147,13 @@ Abbiamo completato tutte le attività previste nella roadmap iniziale. Ora ci co
 
 <div align="center">
 
-| Fase | Cosa | Stato |
-|:--:|:--|:--:|
-| **1** | ⚽ Sezione Calcio — partite, classifiche, statistiche | ✅ Completato |
-| **2** | 📊 Analisi traffico e ottimizzazione performance | ✅ Completato |
-| **3** | ⚡ Implementazione caching | ✅ Completato |
-| **4** | 🏀 Sezione Basket | ✅ Completato |
-| **5** | 🏐 Sezione Pallavolo | ✅ Completato |
-| **6** | 🔎 Monitoraggio API con k6 | 🔄 In corso |
-| **7** | 🚀 Nuove feature | 🧩 In preparazione |
+| Funzionalità | Stato |
+|:--|:--:|
+| ⚽ Sezione Calcio — partite, classifiche, statistiche | ✅ Completata |
+| 📊 Analisi traffico e ottimizzazione performance | ✅ Completata |
+| ⚡ Implementazione caching | ✅ Completata |
+| 🏀 Sezione Basket | ✅ Completata |
+| 🏐 Sezione Pallavolo | ✅ Completata |
 
 </div>
 
