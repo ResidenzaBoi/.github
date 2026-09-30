@@ -18,9 +18,9 @@
 
 ## 💡 Cos'è ResidenzaBoi?
 
-**ResidenzaBoi** è l'organizzazione che sviluppa **ELIS Sport**, un'app nata da un'idea semplice: trasformare il tradizionale registro del calcio della residenza **ELIS** in un'esperienza più completa, moderna e coinvolgente.
+**ResidenzaBoi** è l'organizzazione che sviluppa **ELIS Sport**, un'app nata da un'idea semplice: trasformare il tradizionale registro del calcio della residenza **ELIS** in un'esperienza più completa, moderna e coinvolgente per tutta la community.
 
-Dopo l'ultimo esame della sessione, invece di fermarci a riposare, abbiamo scelto di continuare a costruire. Abbiamo così iniziato a sviluppare una **piattaforma dedicata allo sport e alla vita della community ELIS**.
+Dopo l'ultimo esame della sessione, invece di fermarci a riposare, abbiamo scelto di continuare a costruire. Abbiamo così iniziato a sviluppare una **piattaforma dedicata allo sport e alla vita della residenza**, con l'obiettivo di trasformare il modo in cui i ragazzi vivono il confronto sportivo e il senso di comunità.
 
 ---
 
@@ -75,18 +75,18 @@ Per ogni sport offriamo un'esperienza chiara e completa:
 │  • Routing       │         │  Service / Policy     │
 │  • Guards        │         │    ↓                  │
 └──────────────────┘         │  Repository           │
-                             │    ↓                  │
-                             │  Entity ←→ DTO        │
-                             └─────────┬────────────┘
-                                       │
-                                       ▼
-                             ┌──────────────────────┐
-                             │    🗄️ MySQL           │
-                             │                       │
-                             │  • Utenti e profili   │
-                             │  • Partite e risultati│
-                             │  • Classifiche        │
-                             └──────────────────────┘
+                              │    ↓                  │
+                              │  Entity ←→ DTO        │
+                              └─────────┬────────────┘
+                                        │
+                                        ▼
+                              ┌──────────────────────┐
+                              │    🗄️ MySQL           │
+                              │                       │
+                              │  • Utenti e profili   │
+                              │  • Partite e risultati│
+                              │  • Classifiche        │
+                              └──────────────────────┘
 ```
 
 ---
@@ -143,8 +143,10 @@ Hai trovato un bug o hai un'idea? [Apri una issue](https://github.com/orgs/Resid
 
 ## 🗺️ Roadmap
 
+Abbiamo completato tutte le attività previste nella roadmap iniziale. Ora ci concentriamo sul monitoraggio delle API con **k6** e sulla preparazione di nuove funzionalità.
+
 <div align="center">
-  
+
 | Funzionalità | Stato |
 |:--|:--:|
 | ⚽ Sezione Calcio — partite, classifiche, statistiche | ✅ Completata |
@@ -155,14 +157,11 @@ Hai trovato un bug o hai un'idea? [Apri una issue](https://github.com/orgs/Resid
 
 </div>
 
-**Stato attuale:** stiamo monitorando le API con **k6** e preparando nuove funzionalità.
-
 ---
-
 
 ## 🫂 Più di un'app: una community
 
-**ELIS Sport** non è soltanto uno strumento per registrare risultati. È un progetto **nato dalla community e per la community**, con l'obiettivo di rendere più semplice partecipare, seguire i propri progressi e vivere lo sport della residenza in modo ancora più coinvolgente.
+**ELIS Sport** non è soltanto uno strumento per registrare risultati. È un progetto **nato dalla community e per la community**, con l'obiettivo di rendere più semplice partecipare, seguire i match e vivere la residenza in modo più coinvolgente.
 
 > *Vogliamo creare un ambiente in cui ogni partita racconti qualcosa:*
 > *la sfida, il gruppo, il miglioramento e il piacere di condividere un'esperienza.*
