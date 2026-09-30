@@ -145,15 +145,17 @@ Hai trovato un bug o hai un'idea? [Apri una issue](https://github.com/orgs/Resid
 
 <div align="center">
   
-| Fase | Cosa | Stato |
-|:--:|:--|:--:|
-| **1** | ⚽ Sezione Calcio — partite, classifiche, statistiche | 🟢 In corso |
-| **2** | 📊 Analisi traffico e ottimizzazione performance | 🔜 Prossimo |
-| **3** | ⚡ Implementazione caching | 🔜 Pianificato |
-| **4** | 🏀 Sezione Basket | 📋 Backlog |
-| **5** | 🏐 Sezione Pallavolo | 📋 Backlog |
+| Funzionalità | Stato |
+|:--|:--:|
+| ⚽ Sezione Calcio — partite, classifiche, statistiche | ✅ Completata |
+| 📊 Analisi traffico e ottimizzazione performance | ✅ Completata |
+| ⚡ Implementazione caching | ✅ Completata |
+| 🏀 Sezione Basket | ✅ Completata |
+| 🏐 Sezione Pallavolo | ✅ Completata |
 
 </div>
+
+**Stato attuale:** stiamo monitorando le API con **k6** e preparando nuove funzionalità.
 
 ---
 
